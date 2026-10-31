@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trap Chess Bot</string>
+    <string name="acc_desc">Нужна, чтобы показывать плавающие кнопки поверх экрана и нажимать на клетки доски (делать ходы).</string>
+</resources>
